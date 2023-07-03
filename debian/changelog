@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-unicode-ident (1.0.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Package unicode-ident 1.0.0 from crates.io using debcargo 2.5.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sylvestre Ledru <sylvestre@debian.org>  Fri, 03 Jun 2022 11:13:52 +0200

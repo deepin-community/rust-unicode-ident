@@ -4,7 +4,13 @@ Upstream-Contact: David Tolnay <dtolnay@gmail.com>
 Source: https://github.com/dtolnay/unicode-ident
 
 Files: *
-Copyright: 2021-2022 David Tolnay <dtolnay@gmail.com>
+Copyright: FIXME (overlay) UNKNOWN-YEARS David Tolnay <dtolnay@gmail.com>
+License: MIT or Apache-2.0
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
 
 Files: debian/*
 Copyright:
